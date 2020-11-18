@@ -6,7 +6,6 @@
 
 
 ### I am good at:
-<code><img width="40px" src="https://img.icons8.com/color/2x/firebase.png" title="Firebase"/></code></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" title="C++"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/c-programming.png" title="C"/></code>
