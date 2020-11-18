@@ -3,7 +3,6 @@
 - 🔭 I’m currently pursuing B.tech from UPES in Computer Science with specialization in IOT
 - 🌱 I’m currently in 3rd yr of my engineering
 - 👯 I’m looking to learn new things
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 
 ### I am good at:
