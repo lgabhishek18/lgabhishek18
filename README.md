@@ -24,13 +24,13 @@
 
 ### Let's Connect!!
 
-<a href="https://www.linkedin.com/in/ayush-jain-2401/">
+<a href="https://www.linkedin.com/in/abhishek-gupta-1a4622167/">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/linkedin.png" />
 </a>
-<a href="https://www.facebook.com/aayushjain.smart/">
-  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/facebook-new.png" />
+<a href="https://twitter.com/Abhishe_18?s=08/">
+  <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/twitter.png" />
 </a>
-<a href = "mailto: ayujain.728@gmail.com">
+<a href = "mailto: lgabhishek18@gmail.com">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/gmail.png" />
 </a>
 <br>
