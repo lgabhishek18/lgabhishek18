@@ -18,11 +18,7 @@
 <a href = "https://twitter.com/Abhishe_18?s=08">
   <img align="left" width="50px" src="https://img.icons8.com/plasticine/2x/twitter.png" />
 </a>
-<br>
-<img align="right" src="https://rushter.com/counter.svg">
 
-
-<br />
 
 ### Languages and Tools:
 
