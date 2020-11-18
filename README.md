@@ -30,5 +30,3 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/96/console.png" title="Terminal"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/2x/linux.png" title="Linux"/></code>
 
-<br />
-<br />
