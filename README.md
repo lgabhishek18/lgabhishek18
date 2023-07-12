@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhishek👋
 
-- 🔭 I’m currently pursuing B.tech from UPES in Computer Science with specialization in IOT
-- 🌱 I’m currently in final yr of my engineering
+- 🔭 I’m a Software Developer Engineer
+- 🌱 I’m a Machine Learning Enthusiast
 - 👯 I’m looking to learn new things
 
 
